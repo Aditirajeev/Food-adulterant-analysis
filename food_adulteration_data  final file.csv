@@ -1,0 +1,1001 @@
+product_name,brand,category,adulterant,detection_method,severity,health_risk,action_taken
+Butter,BrandB,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Low,Product Recall
+Chicken,BrandC,Meat,Coloring agents,Sensory Evaluation,Severe,Medium,Warning Issued
+Yogurt,BrandC,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,High,Investigation Launched
+Wine,BrandB,Beverages,Coloring agents,Spectroscopy,Minor,Medium,Product Recall
+Bread,BrandD,Dairy,Water,Chemical Analysis,Severe,Medium,Warning Issued
+Wine,BrandD,Beverages,Melamine,Microbiological Analysis,Severe,Medium,Investigation Launched
+Beef,BrandC,Meat,Melamine,Chemical Analysis,Minor,Medium,Investigation Launched
+Juice,BrandD,Beverages,Melamine,Chemical Analysis,Moderate,High,Fine Imposed
+Chicken,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Low,Investigation Launched
+Milk,BrandA,Dairy,Melamine,Spectroscopy,Moderate,Medium,Fine Imposed
+Cheese,BrandA,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low,Investigation Launched
+Milk,BrandA,Dairy,Melamine,Sensory Evaluation,Moderate,Low,Warning Issued
+Bread,BrandC,Dairy,Chalk,Chemical Analysis,Minor,High,Product Recall
+Beef,BrandA,Meat,Chalk,Chemical Analysis,Moderate,Medium,Warning Issued
+Juice,BrandA,Beverages,Melamine,Sensory Evaluation,Severe,Low,Investigation Launched
+Honey,BrandB,Condiments,Melamine,Spectroscopy,Minor,Medium,Investigation Launched
+Wine,BrandE,Beverages,Melamine,Chemical Analysis,Severe,Low,Product Recall
+Yogurt,BrandB,Dairy,Chalk,Spectroscopy,Moderate,High,Investigation Launched
+Honey,BrandE,Condiments,Melamine,Spectroscopy,Minor,Medium,Fine Imposed
+Honey,BrandC,Condiments,Coloring agents,Microbiological Analysis,Moderate,Low,Investigation Launched
+Wine,BrandE,Beverages,Coloring agents,Spectroscopy,Moderate,Medium,Fine Imposed
+Cheese,BrandA,Dairy,Melamine,Microbiological Analysis,Moderate,High,Fine Imposed
+Wine,BrandD,Beverages,Coloring agents,Spectroscopy,Severe,Low,Product Recall
+Milk,BrandE,Dairy,Melamine,Sensory Evaluation,Minor,Medium,Warning Issued
+Juice,BrandC,Beverages,Coloring agents,Chemical Analysis,Moderate,High,Investigation Launched
+Honey,BrandE,Condiments,Chalk,Chemical Analysis,Severe,High,Warning Issued
+Chicken,BrandE,Meat,Coloring agents,Spectroscopy,Minor,Low,Warning Issued
+Cheese,BrandC,Dairy,Chalk,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Beef,BrandC,Meat,Melamine,Spectroscopy,Moderate,High,Product Recall
+Beef,BrandE,Meat,Melamine,Spectroscopy,Moderate,Medium,Product Recall
+Chicken,BrandA,Meat,Water,Microbiological Analysis,Minor,Medium,Fine Imposed
+Honey,BrandB,Condiments,Melamine,Spectroscopy,Moderate,High,Fine Imposed
+Yogurt,BrandE,Dairy,Chalk,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Honey,BrandD,Condiments,Water,Spectroscopy,Severe,High,Fine Imposed
+Juice,BrandE,Beverages,Water,Spectroscopy,Moderate,Low,Product Recall
+Honey,BrandE,Condiments,Melamine,Microbiological Analysis,Severe,Medium,Warning Issued
+Yogurt,BrandA,Dairy,Water,Microbiological Analysis,Moderate,High,Investigation Launched
+Honey,BrandA,Condiments,Artificial sweeteners,Spectroscopy,Severe,Low,Warning Issued
+Cheese,BrandD,Dairy,Coloring agents,Spectroscopy,Minor,High,Product Recall
+Yogurt,BrandC,Dairy,Melamine,Microbiological Analysis,Minor,Medium,Fine Imposed
+Juice,BrandD,Beverages,Chalk,Chemical Analysis,Minor,High,Product Recall
+Milk,BrandD,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Low,Investigation Launched
+Bread,BrandC,Dairy,Melamine,Sensory Evaluation,Minor,High,Fine Imposed
+Milk,BrandA,Dairy,Melamine,Spectroscopy,Severe,High,Product Recall
+Cheese,BrandC,Dairy,Melamine,Chemical Analysis,Severe,Medium,Fine Imposed
+Beef,BrandC,Meat,Melamine,Sensory Evaluation,Minor,Low,Investigation Launched
+Milk,BrandA,Dairy,Water,Sensory Evaluation,Moderate,High,Warning Issued
+Milk,BrandB,Dairy,Chalk,Microbiological Analysis,Minor,Low,Investigation Launched
+Juice,BrandB,Beverages,Coloring agents,Chemical Analysis,Moderate,Medium,Product Recall
+Butter,BrandE,Dairy,Chalk,Chemical Analysis,Minor,Low,Product Recall
+Yogurt,BrandA,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Warning Issued
+Yogurt,BrandC,Dairy,Melamine,Spectroscopy,Severe,Medium,Warning Issued
+Cheese,BrandB,Dairy,Coloring agents,Spectroscopy,Moderate,High,Investigation Launched
+Chicken,BrandE,Meat,Melamine,Spectroscopy,Severe,Low,Fine Imposed
+Yogurt,BrandA,Dairy,Coloring agents,Microbiological Analysis,Minor,Low,Product Recall
+Milk,BrandD,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,Low,Product Recall
+Wine,BrandA,Beverages,Water,Sensory Evaluation,Moderate,Medium,Warning Issued
+Butter,BrandA,Dairy,Melamine,Chemical Analysis,Moderate,Medium,Warning Issued
+Wine,BrandA,Beverages,Chalk,Spectroscopy,Moderate,Low,Warning Issued
+Bread,BrandD,Dairy,Chalk,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Yogurt,BrandA,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium,Investigation Launched
+Butter,BrandB,Dairy,Chalk,Microbiological Analysis,Minor,High,Fine Imposed
+Milk,BrandC,Dairy,Melamine,Microbiological Analysis,Minor,Medium,Investigation Launched
+Butter,BrandD,Dairy,Water,Spectroscopy,Minor,Low,Investigation Launched
+Honey,BrandE,Condiments,Chalk,Microbiological Analysis,Minor,Medium,Warning Issued
+Chicken,BrandD,Meat,Artificial sweeteners,Spectroscopy,Minor,Medium,Warning Issued
+Wine,BrandE,Beverages,Coloring agents,Spectroscopy,Minor,Low,Fine Imposed
+Cheese,BrandC,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low,Investigation Launched
+Juice,BrandD,Beverages,Chalk,Chemical Analysis,Minor,Low,Product Recall
+Chicken,BrandE,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Chicken,BrandB,Meat,Coloring agents,Microbiological Analysis,Severe,Low,Fine Imposed
+Yogurt,BrandD,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,High,Warning Issued
+Wine,BrandD,Beverages,Water,Spectroscopy,Minor,Low,Fine Imposed
+Juice,BrandE,Beverages,Artificial sweeteners,Sensory Evaluation,Severe,High,Product Recall
+Bread,BrandC,Dairy,Water,Sensory Evaluation,Severe,Low,Investigation Launched
+Honey,BrandA,Condiments,Melamine,Sensory Evaluation,Minor,High,Warning Issued
+Bread,BrandE,Dairy,Chalk,Spectroscopy,Severe,High,Fine Imposed
+Cheese,BrandC,Dairy,Water,Sensory Evaluation,Minor,Medium,Product Recall
+Cheese,BrandC,Dairy,Chalk,Sensory Evaluation,Severe,High,Product Recall
+Juice,BrandB,Beverages,Coloring agents,Microbiological Analysis,Moderate,High,Product Recall
+Bread,BrandC,Dairy,Chalk,Spectroscopy,Minor,High,Fine Imposed
+Yogurt,BrandE,Dairy,Water,Spectroscopy,Minor,Medium,Warning Issued
+Milk,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,High,Product Recall
+Chicken,BrandC,Meat,Chalk,Sensory Evaluation,Moderate,Medium,Product Recall
+Bread,BrandD,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium,Investigation Launched
+Chicken,BrandB,Meat,Coloring agents,Spectroscopy,Minor,High,Investigation Launched
+Bread,BrandC,Dairy,Melamine,Microbiological Analysis,Minor,High,Fine Imposed
+Honey,BrandC,Condiments,Artificial sweeteners,Spectroscopy,Severe,Medium,Investigation Launched
+Cheese,BrandD,Dairy,Melamine,Sensory Evaluation,Minor,Medium,Fine Imposed
+Juice,BrandE,Beverages,Chalk,Microbiological Analysis,Severe,High,Investigation Launched
+Chicken,BrandB,Meat,Chalk,Spectroscopy,Minor,Medium,Warning Issued
+Bread,BrandA,Dairy,Artificial sweeteners,Spectroscopy,Minor,Medium,Product Recall
+Yogurt,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Minor,Low,Investigation Launched
+Juice,BrandC,Beverages,Water,Microbiological Analysis,Minor,High,Investigation Launched
+Butter,BrandD,Dairy,Melamine,Chemical Analysis,Severe,Medium,Product Recall
+Butter,BrandE,Dairy,Coloring agents,Microbiological Analysis,Moderate,Low,Investigation Launched
+Wine,BrandE,Beverages,Artificial sweeteners,Chemical Analysis,Minor,High,Warning Issued
+Beef,BrandB,Meat,Chalk,Chemical Analysis,Moderate,Medium,Fine Imposed
+Juice,BrandD,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,High,Product Recall
+Milk,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium,Warning Issued
+Milk,BrandD,Dairy,Water,Sensory Evaluation,Severe,High,Investigation Launched
+Juice,BrandC,Beverages,Chalk,Chemical Analysis,Severe,Medium,Investigation Launched
+Butter,BrandB,Dairy,Water,Spectroscopy,Moderate,High,Warning Issued
+Bread,BrandA,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Medium,Investigation Launched
+Milk,BrandA,Dairy,Water,Sensory Evaluation,Severe,Medium,Warning Issued
+Milk,BrandD,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Warning Issued
+Wine,BrandB,Beverages,Melamine,Spectroscopy,Severe,Low,Investigation Launched
+Cheese,BrandD,Dairy,Melamine,Microbiological Analysis,Minor,Low,Investigation Launched
+Wine,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Minor,Medium,Investigation Launched
+Butter,BrandC,Dairy,Water,Microbiological Analysis,Severe,High,Product Recall
+Chicken,BrandD,Meat,Coloring agents,Sensory Evaluation,Moderate,Low,Product Recall
+Yogurt,BrandC,Dairy,Coloring agents,Chemical Analysis,Severe,Medium,Warning Issued
+Beef,BrandC,Meat,Melamine,Microbiological Analysis,Severe,High,Investigation Launched
+Cheese,BrandE,Dairy,Chalk,Sensory Evaluation,Moderate,High,Warning Issued
+Butter,BrandC,Dairy,Water,Chemical Analysis,Severe,Low,Warning Issued
+Cheese,BrandC,Dairy,Coloring agents,Microbiological Analysis,Severe,Low,Fine Imposed
+Wine,BrandA,Beverages,Water,Microbiological Analysis,Minor,Low,Warning Issued
+Chicken,BrandB,Meat,Water,Microbiological Analysis,Minor,Medium,Fine Imposed
+Butter,BrandE,Dairy,Melamine,Microbiological Analysis,Minor,Low,Product Recall
+Juice,BrandC,Beverages,Water,Spectroscopy,Minor,Low,Investigation Launched
+Chicken,BrandB,Meat,Melamine,Chemical Analysis,Moderate,Medium,Product Recall
+Wine,BrandD,Beverages,Coloring agents,Microbiological Analysis,Severe,High,Investigation Launched
+Butter,BrandE,Dairy,Chalk,Microbiological Analysis,Moderate,High,Investigation Launched
+Juice,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Minor,High,Warning Issued
+Wine,BrandC,Beverages,Melamine,Spectroscopy,Severe,Low,Fine Imposed
+Beef,BrandC,Meat,Water,Spectroscopy,Severe,High,Warning Issued
+Juice,BrandC,Beverages,Coloring agents,Microbiological Analysis,Moderate,Low,Product Recall
+Yogurt,BrandD,Dairy,Melamine,Spectroscopy,Moderate,High,Warning Issued
+Juice,BrandB,Beverages,Chalk,Spectroscopy,Severe,High,Warning Issued
+Bread,BrandB,Dairy,Melamine,Microbiological Analysis,Moderate,High,Product Recall
+Beef,BrandC,Meat,Melamine,Microbiological Analysis,Severe,Low,Warning Issued
+Beef,BrandD,Meat,Coloring agents,Spectroscopy,Severe,Low,Product Recall
+Juice,BrandC,Beverages,Coloring agents,Microbiological Analysis,Moderate,Medium,Product Recall
+Bread,BrandE,Dairy,Melamine,Chemical Analysis,Moderate,Low,Warning Issued
+Beef,BrandD,Meat,Melamine,Spectroscopy,Severe,Medium,Product Recall
+Beef,BrandD,Meat,Water,Spectroscopy,Minor,High,Investigation Launched
+Butter,BrandA,Dairy,Water,Sensory Evaluation,Minor,Medium,Product Recall
+Milk,BrandA,Dairy,Melamine,Chemical Analysis,Minor,Medium,Investigation Launched
+Cheese,BrandD,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium,Product Recall
+Honey,BrandB,Condiments,Coloring agents,Chemical Analysis,Minor,Low,Product Recall
+Cheese,BrandE,Dairy,Chalk,Spectroscopy,Minor,High,Product Recall
+Honey,BrandA,Condiments,Melamine,Chemical Analysis,Moderate,High,Warning Issued
+Butter,BrandA,Dairy,Coloring agents,Sensory Evaluation,Minor,High,Fine Imposed
+Chicken,BrandB,Meat,Melamine,Spectroscopy,Moderate,Low,Investigation Launched
+Juice,BrandB,Beverages,Coloring agents,Chemical Analysis,Moderate,Medium,Warning Issued
+Bread,BrandD,Dairy,Artificial sweeteners,Spectroscopy,Severe,Low,Fine Imposed
+Yogurt,BrandC,Dairy,Water,Chemical Analysis,Moderate,Low,Product Recall
+Juice,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Minor,High,Product Recall
+Chicken,BrandE,Meat,Artificial sweeteners,Sensory Evaluation,Minor,High,Fine Imposed
+Milk,BrandC,Dairy,Coloring agents,Chemical Analysis,Minor,Low,Product Recall
+Cheese,BrandB,Dairy,Melamine,Chemical Analysis,Moderate,Medium,Investigation Launched
+Honey,BrandB,Condiments,Chalk,Microbiological Analysis,Severe,High,Investigation Launched
+Bread,BrandD,Dairy,Chalk,Spectroscopy,Severe,High,Fine Imposed
+Beef,BrandD,Meat,Water,Microbiological Analysis,Moderate,High,Fine Imposed
+Chicken,BrandA,Meat,Artificial sweeteners,Spectroscopy,Moderate,High,Fine Imposed
+Chicken,BrandB,Meat,Chalk,Chemical Analysis,Minor,Medium,Product Recall
+Chicken,BrandD,Meat,Artificial sweeteners,Chemical Analysis,Moderate,Low,Warning Issued
+Bread,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Low,Investigation Launched
+Butter,BrandC,Dairy,Chalk,Microbiological Analysis,Moderate,Low,Product Recall
+Honey,BrandD,Condiments,Melamine,Spectroscopy,Moderate,Low,Investigation Launched
+Milk,BrandD,Dairy,Melamine,Sensory Evaluation,Moderate,High,Product Recall
+Wine,BrandD,Beverages,Coloring agents,Chemical Analysis,Severe,Low,Product Recall
+Bread,BrandE,Dairy,Melamine,Microbiological Analysis,Minor,High,Fine Imposed
+Honey,BrandD,Condiments,Chalk,Sensory Evaluation,Severe,Low,Warning Issued
+Juice,BrandD,Beverages,Coloring agents,Spectroscopy,Minor,High,Fine Imposed
+Juice,BrandC,Beverages,Artificial sweeteners,Chemical Analysis,Moderate,Low,Warning Issued
+Butter,BrandD,Dairy,Water,Spectroscopy,Severe,Medium,Investigation Launched
+Bread,BrandA,Dairy,Coloring agents,Spectroscopy,Moderate,Medium,Investigation Launched
+Wine,BrandE,Beverages,Melamine,Microbiological Analysis,Minor,Medium,Warning Issued
+Yogurt,BrandA,Dairy,Water,Sensory Evaluation,Severe,Low,Product Recall
+Milk,BrandB,Dairy,Chalk,Sensory Evaluation,Minor,Medium,Investigation Launched
+Beef,BrandC,Meat,Coloring agents,Chemical Analysis,Moderate,High,Investigation Launched
+Bread,BrandD,Dairy,Water,Spectroscopy,Severe,Low,Warning Issued
+Chicken,BrandD,Meat,Melamine,Spectroscopy,Minor,High,Warning Issued
+Bread,BrandE,Dairy,Melamine,Sensory Evaluation,Severe,High,Warning Issued
+Chicken,BrandA,Meat,Coloring agents,Chemical Analysis,Severe,Low,Warning Issued
+Bread,BrandA,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Investigation Launched
+Cheese,BrandD,Dairy,Chalk,Chemical Analysis,Minor,Low,Fine Imposed
+Yogurt,BrandE,Dairy,Water,Sensory Evaluation,Moderate,Low,Product Recall
+Juice,BrandA,Beverages,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Investigation Launched
+Wine,BrandB,Beverages,Artificial sweeteners,Chemical Analysis,Severe,Medium,Fine Imposed
+Juice,BrandE,Beverages,Water,Microbiological Analysis,Minor,Low,Fine Imposed
+Honey,BrandE,Condiments,Water,Microbiological Analysis,Severe,Medium,Product Recall
+Beef,BrandA,Meat,Chalk,Spectroscopy,Moderate,Low,Product Recall
+Beef,BrandC,Meat,Chalk,Chemical Analysis,Minor,High,Fine Imposed
+Milk,BrandA,Dairy,Chalk,Microbiological Analysis,Minor,High,Investigation Launched
+Chicken,BrandB,Meat,Chalk,Spectroscopy,Minor,Medium,Product Recall
+Cheese,BrandA,Dairy,Melamine,Chemical Analysis,Moderate,Low,Investigation Launched
+Butter,BrandA,Dairy,Water,Spectroscopy,Moderate,Low,Warning Issued
+Juice,BrandD,Beverages,Chalk,Spectroscopy,Severe,Low,Warning Issued
+Bread,BrandE,Dairy,Artificial sweeteners,Spectroscopy,Moderate,Medium,Investigation Launched
+Milk,BrandC,Dairy,Water,Spectroscopy,Moderate,Medium,Warning Issued
+Juice,BrandA,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Fine Imposed
+Bread,BrandC,Dairy,Water,Sensory Evaluation,Severe,Medium,Investigation Launched
+Juice,BrandC,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium,Fine Imposed
+Honey,BrandE,Condiments,Chalk,Chemical Analysis,Minor,Medium,Warning Issued
+Cheese,BrandC,Dairy,Coloring agents,Sensory Evaluation,Moderate,Medium,Product Recall
+Wine,BrandC,Beverages,Water,Chemical Analysis,Severe,High,Warning Issued
+Juice,BrandD,Beverages,Chalk,Sensory Evaluation,Minor,High,Product Recall
+Juice,BrandB,Beverages,Artificial sweeteners,Spectroscopy,Minor,High,Investigation Launched
+Chicken,BrandB,Meat,Water,Chemical Analysis,Minor,Medium,Fine Imposed
+Beef,BrandA,Meat,Coloring agents,Chemical Analysis,Minor,High,Product Recall
+Juice,BrandC,Beverages,Water,Chemical Analysis,Minor,Medium,Warning Issued
+Chicken,BrandB,Meat,Coloring agents,Chemical Analysis,Minor,Medium,Fine Imposed
+Chicken,BrandB,Meat,Water,Microbiological Analysis,Moderate,Low,Fine Imposed
+Beef,BrandA,Meat,Coloring agents,Spectroscopy,Minor,Low,Fine Imposed
+Butter,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium,Fine Imposed
+Honey,BrandA,Condiments,Chalk,Chemical Analysis,Moderate,Low,Fine Imposed
+Juice,BrandA,Beverages,Melamine,Chemical Analysis,Minor,High,Fine Imposed
+Juice,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Severe,Medium,Fine Imposed
+Honey,BrandB,Condiments,Chalk,Sensory Evaluation,Minor,High,Investigation Launched
+Yogurt,BrandA,Dairy,Chalk,Sensory Evaluation,Severe,High,Product Recall
+Juice,BrandB,Beverages,Coloring agents,Chemical Analysis,Minor,High,Investigation Launched
+Juice,BrandC,Beverages,Chalk,Chemical Analysis,Moderate,High,Investigation Launched
+Milk,BrandE,Dairy,Chalk,Sensory Evaluation,Moderate,High,Fine Imposed
+Chicken,BrandD,Meat,Melamine,Chemical Analysis,Severe,High,Investigation Launched
+Yogurt,BrandA,Dairy,Chalk,Sensory Evaluation,Severe,Low,Fine Imposed
+Yogurt,BrandE,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium,Product Recall
+Chicken,BrandB,Meat,Coloring agents,Spectroscopy,Severe,High,Fine Imposed
+Juice,BrandD,Beverages,Artificial sweeteners,Spectroscopy,Minor,Low,Product Recall
+Honey,BrandD,Condiments,Water,Chemical Analysis,Severe,Medium,Investigation Launched
+Chicken,BrandC,Meat,Artificial sweeteners,Chemical Analysis,Minor,Low,Fine Imposed
+Butter,BrandC,Dairy,Coloring agents,Microbiological Analysis,Moderate,Medium,Product Recall
+Milk,BrandD,Dairy,Water,Sensory Evaluation,Minor,Low,Fine Imposed
+Beef,BrandC,Meat,Coloring agents,Spectroscopy,Moderate,High,Fine Imposed
+Milk,BrandB,Dairy,Water,Sensory Evaluation,Minor,High,Product Recall
+Butter,BrandB,Dairy,Water,Spectroscopy,Moderate,Medium,Fine Imposed
+Bread,BrandD,Dairy,Coloring agents,Microbiological Analysis,Minor,High,Investigation Launched
+Beef,BrandE,Meat,Coloring agents,Chemical Analysis,Moderate,Medium,Warning Issued
+Juice,BrandA,Beverages,Chalk,Microbiological Analysis,Minor,Medium,Investigation Launched
+Juice,BrandD,Beverages,Water,Microbiological Analysis,Moderate,High,Fine Imposed
+Juice,BrandB,Beverages,Coloring agents,Spectroscopy,Minor,Low,Investigation Launched
+Juice,BrandE,Beverages,Melamine,Chemical Analysis,Minor,Low,Product Recall
+Yogurt,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,Low,Fine Imposed
+Wine,BrandD,Beverages,Coloring agents,Chemical Analysis,Minor,Low,Investigation Launched
+Wine,BrandA,Beverages,Artificial sweeteners,Sensory Evaluation,Severe,High,Fine Imposed
+Cheese,BrandA,Dairy,Coloring agents,Chemical Analysis,Severe,Low,Investigation Launched
+Cheese,BrandE,Dairy,Melamine,Microbiological Analysis,Severe,High,Fine Imposed
+Chicken,BrandC,Meat,Coloring agents,Spectroscopy,Minor,Medium,Fine Imposed
+Milk,BrandD,Dairy,Melamine,Sensory Evaluation,Moderate,Medium,Fine Imposed
+Butter,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,High,Fine Imposed
+Juice,BrandC,Beverages,Coloring agents,Microbiological Analysis,Minor,High,Warning Issued
+Chicken,BrandD,Meat,Coloring agents,Microbiological Analysis,Severe,High,Investigation Launched
+Honey,BrandD,Condiments,Artificial sweeteners,Microbiological Analysis,Severe,Low,Warning Issued
+Juice,BrandC,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Low,Investigation Launched
+Cheese,BrandA,Dairy,Melamine,Chemical Analysis,Minor,Low,Product Recall
+Juice,BrandB,Beverages,Coloring agents,Chemical Analysis,Moderate,Low,Warning Issued
+Yogurt,BrandC,Dairy,Melamine,Spectroscopy,Minor,High,Warning Issued
+Cheese,BrandB,Dairy,Coloring agents,Microbiological Analysis,Minor,Low,Fine Imposed
+Yogurt,BrandA,Dairy,Water,Spectroscopy,Severe,High,Fine Imposed
+Juice,BrandE,Beverages,Coloring agents,Sensory Evaluation,Severe,Medium,Fine Imposed
+Cheese,BrandB,Dairy,Coloring agents,Chemical Analysis,Minor,Low,Fine Imposed
+Milk,BrandD,Dairy,Melamine,Chemical Analysis,Moderate,High,Investigation Launched
+Milk,BrandE,Dairy,Chalk,Microbiological Analysis,Moderate,High,Fine Imposed
+Bread,BrandE,Dairy,Melamine,Spectroscopy,Moderate,Medium,Investigation Launched
+Honey,BrandD,Condiments,Artificial sweeteners,Chemical Analysis,Severe,High,Product Recall
+Cheese,BrandA,Dairy,Coloring agents,Microbiological Analysis,Moderate,High,Warning Issued
+Chicken,BrandD,Meat,Artificial sweeteners,Microbiological Analysis,Severe,High,Investigation Launched
+Chicken,BrandB,Meat,Artificial sweeteners,Sensory Evaluation,Moderate,Medium,Warning Issued
+Cheese,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium,Warning Issued
+Milk,BrandB,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,High,Fine Imposed
+Milk,BrandB,Dairy,Water,Microbiological Analysis,Severe,Low,Product Recall
+Bread,BrandB,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low,Fine Imposed
+Bread,BrandB,Dairy,Coloring agents,Microbiological Analysis,Moderate,High,Product Recall
+Honey,BrandC,Condiments,Coloring agents,Sensory Evaluation,Severe,High,Investigation Launched
+Honey,BrandA,Condiments,Melamine,Spectroscopy,Moderate,High,Product Recall
+Chicken,BrandE,Meat,Melamine,Chemical Analysis,Minor,High,Warning Issued
+Honey,BrandE,Condiments,Artificial sweeteners,Microbiological Analysis,Severe,Medium,Investigation Launched
+Juice,BrandC,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,High,Warning Issued
+Bread,BrandE,Dairy,Water,Sensory Evaluation,Moderate,Low,Investigation Launched
+Chicken,BrandE,Meat,Chalk,Spectroscopy,Severe,Low,Fine Imposed
+Chicken,BrandD,Meat,Coloring agents,Spectroscopy,Severe,Medium,Warning Issued
+Wine,BrandB,Beverages,Water,Microbiological Analysis,Severe,Medium,Product Recall
+Yogurt,BrandE,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Warning Issued
+Juice,BrandC,Beverages,Coloring agents,Sensory Evaluation,Minor,Low,Product Recall
+Cheese,BrandD,Dairy,Melamine,Chemical Analysis,Moderate,High,Fine Imposed
+Honey,BrandD,Condiments,Chalk,Spectroscopy,Minor,High,Product Recall
+Honey,BrandE,Condiments,Coloring agents,Microbiological Analysis,Minor,High,Fine Imposed
+Chicken,BrandB,Meat,Water,Spectroscopy,Minor,Low,Investigation Launched
+Butter,BrandB,Dairy,Coloring agents,Chemical Analysis,Severe,High,Fine Imposed
+Beef,BrandE,Meat,Artificial sweeteners,Spectroscopy,Minor,High,Product Recall
+Cheese,BrandE,Dairy,Water,Sensory Evaluation,Severe,High,Product Recall
+Yogurt,BrandE,Dairy,Water,Microbiological Analysis,Moderate,Low,Product Recall
+Butter,BrandC,Dairy,Chalk,Chemical Analysis,Minor,Medium,Warning Issued
+Cheese,BrandD,Dairy,Melamine,Chemical Analysis,Severe,Low,Investigation Launched
+Chicken,BrandE,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Low,Warning Issued
+Milk,BrandD,Dairy,Artificial sweeteners,Spectroscopy,Severe,High,Investigation Launched
+Honey,BrandD,Condiments,Chalk,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Milk,BrandC,Dairy,Water,Microbiological Analysis,Moderate,Low,Investigation Launched
+Bread,BrandE,Dairy,Coloring agents,Microbiological Analysis,Moderate,Medium,Product Recall
+Yogurt,BrandE,Dairy,Coloring agents,Spectroscopy,Moderate,Low,Fine Imposed
+Beef,BrandD,Meat,Coloring agents,Sensory Evaluation,Severe,High,Investigation Launched
+Honey,BrandE,Condiments,Water,Chemical Analysis,Severe,High,Fine Imposed
+Yogurt,BrandD,Dairy,Chalk,Spectroscopy,Severe,Medium,Warning Issued
+Beef,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Minor,High,Product Recall
+Cheese,BrandD,Dairy,Coloring agents,Microbiological Analysis,Moderate,Low,Warning Issued
+Yogurt,BrandA,Dairy,Melamine,Spectroscopy,Minor,High,Product Recall
+Beef,BrandE,Meat,Melamine,Chemical Analysis,Severe,High,Investigation Launched
+Yogurt,BrandE,Dairy,Melamine,Microbiological Analysis,Minor,Medium,Product Recall
+Chicken,BrandD,Meat,Coloring agents,Spectroscopy,Moderate,High,Warning Issued
+Milk,BrandB,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,Low,Product Recall
+Honey,BrandB,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Investigation Launched
+Milk,BrandB,Dairy,Melamine,Spectroscopy,Severe,Medium,Investigation Launched
+Juice,BrandC,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Fine Imposed
+Bread,BrandE,Dairy,Chalk,Chemical Analysis,Minor,Low,Fine Imposed
+Cheese,BrandD,Dairy,Chalk,Spectroscopy,Moderate,High,Fine Imposed
+Chicken,BrandB,Meat,Water,Spectroscopy,Minor,Medium,Warning Issued
+Chicken,BrandA,Meat,Chalk,Chemical Analysis,Severe,Medium,Product Recall
+Butter,BrandA,Dairy,Chalk,Sensory Evaluation,Minor,High,Investigation Launched
+Wine,BrandC,Beverages,Coloring agents,Chemical Analysis,Moderate,Medium,Warning Issued
+Milk,BrandB,Dairy,Melamine,Chemical Analysis,Severe,High,Warning Issued
+Bread,BrandD,Dairy,Chalk,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Honey,BrandA,Condiments,Chalk,Sensory Evaluation,Severe,Medium,Warning Issued
+Yogurt,BrandD,Dairy,Melamine,Spectroscopy,Minor,Medium,Warning Issued
+Butter,BrandC,Dairy,Chalk,Chemical Analysis,Minor,Medium,Fine Imposed
+Beef,BrandC,Meat,Chalk,Sensory Evaluation,Severe,High,Warning Issued
+Bread,BrandA,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Medium,Investigation Launched
+Milk,BrandC,Dairy,Chalk,Spectroscopy,Moderate,High,Warning Issued
+Honey,BrandA,Condiments,Water,Microbiological Analysis,Moderate,Low,Warning Issued
+Milk,BrandA,Dairy,Chalk,Sensory Evaluation,Minor,High,Investigation Launched
+Juice,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Minor,Low,Warning Issued
+Honey,BrandD,Condiments,Water,Sensory Evaluation,Minor,Low,Product Recall
+Juice,BrandB,Beverages,Melamine,Spectroscopy,Minor,High,Warning Issued
+Yogurt,BrandC,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,Low,Fine Imposed
+Milk,BrandA,Dairy,Chalk,Microbiological Analysis,Minor,Low,Warning Issued
+Beef,BrandE,Meat,Water,Spectroscopy,Moderate,Low,Fine Imposed
+Cheese,BrandC,Dairy,Water,Microbiological Analysis,Minor,High,Product Recall
+Yogurt,BrandE,Dairy,Chalk,Spectroscopy,Moderate,Low,Warning Issued
+Juice,BrandA,Beverages,Melamine,Spectroscopy,Moderate,Low,Investigation Launched
+Wine,BrandE,Beverages,Water,Sensory Evaluation,Severe,High,Investigation Launched
+Beef,BrandB,Meat,Melamine,Chemical Analysis,Severe,Low,Investigation Launched
+Butter,BrandB,Dairy,Melamine,Microbiological Analysis,Severe,High,Investigation Launched
+Bread,BrandA,Dairy,Melamine,Chemical Analysis,Severe,Low,Fine Imposed
+Beef,BrandD,Meat,Coloring agents,Sensory Evaluation,Severe,Low,Fine Imposed
+Honey,BrandB,Condiments,Chalk,Spectroscopy,Severe,High,Investigation Launched
+Chicken,BrandC,Meat,Coloring agents,Sensory Evaluation,Minor,Medium,Warning Issued
+Butter,BrandC,Dairy,Coloring agents,Chemical Analysis,Severe,High,Product Recall
+Honey,BrandD,Condiments,Coloring agents,Spectroscopy,Severe,High,Warning Issued
+Chicken,BrandC,Meat,Chalk,Sensory Evaluation,Severe,High,Fine Imposed
+Milk,BrandC,Dairy,Melamine,Sensory Evaluation,Minor,Medium,Investigation Launched
+Honey,BrandD,Condiments,Artificial sweeteners,Microbiological Analysis,Severe,Low,Fine Imposed
+Beef,BrandA,Meat,Melamine,Spectroscopy,Minor,Medium,Warning Issued
+Cheese,BrandC,Dairy,Water,Chemical Analysis,Minor,Medium,Investigation Launched
+Honey,BrandC,Condiments,Coloring agents,Chemical Analysis,Severe,Medium,Warning Issued
+Chicken,BrandC,Meat,Chalk,Spectroscopy,Minor,High,Fine Imposed
+Juice,BrandE,Beverages,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Warning Issued
+Juice,BrandD,Beverages,Chalk,Spectroscopy,Moderate,Low,Warning Issued
+Juice,BrandB,Beverages,Artificial sweeteners,Chemical Analysis,Severe,Medium,Product Recall
+Milk,BrandD,Dairy,Coloring agents,Microbiological Analysis,Moderate,Medium,Product Recall
+Beef,BrandD,Meat,Melamine,Microbiological Analysis,Severe,Medium,Investigation Launched
+Bread,BrandD,Dairy,Coloring agents,Sensory Evaluation,Severe,High,Product Recall
+Bread,BrandE,Dairy,Water,Spectroscopy,Moderate,Low,Investigation Launched
+Butter,BrandC,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Investigation Launched
+Yogurt,BrandB,Dairy,Water,Sensory Evaluation,Moderate,High,Investigation Launched
+Chicken,BrandE,Meat,Water,Sensory Evaluation,Minor,High,Warning Issued
+Juice,BrandE,Beverages,Chalk,Chemical Analysis,Severe,High,Fine Imposed
+Milk,BrandA,Dairy,Coloring agents,Chemical Analysis,Moderate,Medium,Investigation Launched
+Yogurt,BrandB,Dairy,Chalk,Spectroscopy,Minor,Medium,Fine Imposed
+Butter,BrandD,Dairy,Coloring agents,Microbiological Analysis,Minor,Low,Investigation Launched
+Honey,BrandE,Condiments,Chalk,Chemical Analysis,Severe,High,Warning Issued
+Yogurt,BrandA,Dairy,Coloring agents,Microbiological Analysis,Severe,Low,Product Recall
+Beef,BrandA,Meat,Melamine,Microbiological Analysis,Severe,Low,Fine Imposed
+Milk,BrandA,Dairy,Water,Chemical Analysis,Severe,Medium,Warning Issued
+Juice,BrandA,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium,Investigation Launched
+Chicken,BrandA,Meat,Coloring agents,Microbiological Analysis,Moderate,Low,Fine Imposed
+Honey,BrandB,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,High,Warning Issued
+Bread,BrandC,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,Medium,Investigation Launched
+Beef,BrandD,Meat,Chalk,Spectroscopy,Minor,Low,Investigation Launched
+Milk,BrandC,Dairy,Melamine,Spectroscopy,Severe,High,Investigation Launched
+Milk,BrandE,Dairy,Coloring agents,Chemical Analysis,Moderate,High,Warning Issued
+Wine,BrandD,Beverages,Water,Spectroscopy,Severe,Medium,Product Recall
+Bread,BrandC,Dairy,Melamine,Spectroscopy,Minor,Medium,Product Recall
+Chicken,BrandA,Meat,Coloring agents,Microbiological Analysis,Severe,Low,Fine Imposed
+Milk,BrandB,Dairy,Coloring agents,Sensory Evaluation,Severe,Low,Fine Imposed
+Milk,BrandD,Dairy,Water,Chemical Analysis,Severe,Low,Fine Imposed
+Cheese,BrandC,Dairy,Coloring agents,Sensory Evaluation,Minor,High,Warning Issued
+Honey,BrandA,Condiments,Melamine,Chemical Analysis,Minor,Low,Product Recall
+Chicken,BrandA,Meat,Chalk,Sensory Evaluation,Severe,Low,Warning Issued
+Cheese,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium,Product Recall
+Juice,BrandE,Beverages,Coloring agents,Spectroscopy,Severe,High,Product Recall
+Yogurt,BrandC,Dairy,Water,Sensory Evaluation,Severe,Low,Product Recall
+Chicken,BrandA,Meat,Coloring agents,Chemical Analysis,Minor,Low,Investigation Launched
+Wine,BrandB,Beverages,Water,Sensory Evaluation,Severe,Low,Investigation Launched
+Wine,BrandC,Beverages,Melamine,Chemical Analysis,Minor,Low,Fine Imposed
+Beef,BrandC,Meat,Coloring agents,Sensory Evaluation,Moderate,Low,Fine Imposed
+Yogurt,BrandE,Dairy,Coloring agents,Sensory Evaluation,Severe,Low,Warning Issued
+Milk,BrandE,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium,Warning Issued
+Wine,BrandC,Beverages,Coloring agents,Spectroscopy,Minor,Low,Investigation Launched
+Beef,BrandE,Meat,Chalk,Chemical Analysis,Minor,Medium,Investigation Launched
+Bread,BrandA,Dairy,Water,Spectroscopy,Severe,Low,Warning Issued
+Honey,BrandB,Condiments,Melamine,Sensory Evaluation,Severe,Low,Fine Imposed
+Bread,BrandA,Dairy,Water,Chemical Analysis,Minor,Low,Warning Issued
+Juice,BrandD,Beverages,Water,Chemical Analysis,Minor,Medium,Investigation Launched
+Juice,BrandE,Beverages,Artificial sweeteners,Spectroscopy,Moderate,Low,Investigation Launched
+Juice,BrandE,Beverages,Coloring agents,Spectroscopy,Minor,Medium,Warning Issued
+Butter,BrandB,Dairy,Melamine,Chemical Analysis,Minor,High,Warning Issued
+Bread,BrandE,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium,Warning Issued
+Yogurt,BrandB,Dairy,Coloring agents,Sensory Evaluation,Minor,Low,Fine Imposed
+Bread,BrandC,Dairy,Water,Chemical Analysis,Moderate,Medium,Investigation Launched
+Wine,BrandE,Beverages,Melamine,Spectroscopy,Minor,Low,Product Recall
+Chicken,BrandA,Meat,Chalk,Chemical Analysis,Minor,Medium,Investigation Launched
+Honey,BrandB,Condiments,Coloring agents,Microbiological Analysis,Moderate,Medium,Product Recall
+Juice,BrandD,Beverages,Water,Sensory Evaluation,Severe,Low,Investigation Launched
+Honey,BrandC,Condiments,Chalk,Chemical Analysis,Minor,Low,Investigation Launched
+Chicken,BrandB,Meat,Artificial sweeteners,Microbiological Analysis,Minor,High,Fine Imposed
+Butter,BrandB,Dairy,Chalk,Microbiological Analysis,Minor,Medium,Warning Issued
+Wine,BrandC,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,Medium,Fine Imposed
+Beef,BrandA,Meat,Artificial sweeteners,Sensory Evaluation,Minor,Medium,Fine Imposed
+Honey,BrandD,Condiments,Chalk,Spectroscopy,Severe,Low,Fine Imposed
+Butter,BrandA,Dairy,Chalk,Chemical Analysis,Severe,High,Product Recall
+Yogurt,BrandA,Dairy,Chalk,Spectroscopy,Moderate,High,Product Recall
+Honey,BrandA,Condiments,Chalk,Chemical Analysis,Minor,Low,Warning Issued
+Wine,BrandE,Beverages,Chalk,Microbiological Analysis,Minor,Medium,Warning Issued
+Beef,BrandD,Meat,Chalk,Spectroscopy,Minor,Low,Investigation Launched
+Butter,BrandB,Dairy,Chalk,Chemical Analysis,Minor,Low,Warning Issued
+Milk,BrandB,Dairy,Chalk,Microbiological Analysis,Minor,High,Product Recall
+Yogurt,BrandA,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Investigation Launched
+Juice,BrandC,Beverages,Coloring agents,Spectroscopy,Minor,Low,Warning Issued
+Cheese,BrandD,Dairy,Chalk,Chemical Analysis,Moderate,Low,Product Recall
+Juice,BrandA,Beverages,Melamine,Chemical Analysis,Minor,High,Warning Issued
+Juice,BrandA,Beverages,Melamine,Microbiological Analysis,Minor,Low,Investigation Launched
+Beef,BrandB,Meat,Artificial sweeteners,Chemical Analysis,Moderate,Low,Investigation Launched
+Cheese,BrandB,Dairy,Water,Spectroscopy,Severe,Medium,Warning Issued
+Bread,BrandC,Dairy,Water,Spectroscopy,Moderate,Low,Investigation Launched
+Cheese,BrandE,Dairy,Melamine,Microbiological Analysis,Severe,High,Investigation Launched
+Chicken,BrandE,Meat,Artificial sweeteners,Spectroscopy,Minor,Low,Fine Imposed
+Butter,BrandC,Dairy,Melamine,Chemical Analysis,Moderate,Low,Product Recall
+Beef,BrandA,Meat,Artificial sweeteners,Spectroscopy,Minor,Low,Product Recall
+Chicken,BrandD,Meat,Coloring agents,Sensory Evaluation,Severe,High,Fine Imposed
+Juice,BrandD,Beverages,Chalk,Chemical Analysis,Severe,Low,Product Recall
+Chicken,BrandD,Meat,Water,Spectroscopy,Severe,Medium,Investigation Launched
+Yogurt,BrandB,Dairy,Water,Microbiological Analysis,Severe,Low,Investigation Launched
+Butter,BrandD,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Fine Imposed
+Cheese,BrandD,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,High,Product Recall
+Yogurt,BrandE,Dairy,Coloring agents,Sensory Evaluation,Moderate,High,Fine Imposed
+Chicken,BrandD,Meat,Melamine,Chemical Analysis,Minor,Low,Fine Imposed
+Wine,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Moderate,Medium,Investigation Launched
+Yogurt,BrandE,Dairy,Coloring agents,Chemical Analysis,Minor,Low,Investigation Launched
+Milk,BrandB,Dairy,Chalk,Chemical Analysis,Moderate,Low,Product Recall
+Bread,BrandE,Dairy,Melamine,Spectroscopy,Minor,Medium,Fine Imposed
+Milk,BrandA,Dairy,Water,Chemical Analysis,Moderate,Low,Warning Issued
+Wine,BrandB,Beverages,Coloring agents,Sensory Evaluation,Severe,Low,Product Recall
+Butter,BrandA,Dairy,Chalk,Sensory Evaluation,Severe,Low,Fine Imposed
+Yogurt,BrandA,Dairy,Chalk,Chemical Analysis,Severe,High,Fine Imposed
+Wine,BrandB,Beverages,Artificial sweeteners,Chemical Analysis,Moderate,Low,Warning Issued
+Wine,BrandA,Beverages,Water,Microbiological Analysis,Minor,Medium,Investigation Launched
+Yogurt,BrandA,Dairy,Artificial sweeteners,Chemical Analysis,Minor,High,Product Recall
+Milk,BrandA,Dairy,Coloring agents,Chemical Analysis,Moderate,Medium,Fine Imposed
+Chicken,BrandD,Meat,Melamine,Microbiological Analysis,Moderate,Low,Investigation Launched
+Yogurt,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Low,Fine Imposed
+Honey,BrandD,Condiments,Chalk,Sensory Evaluation,Minor,Medium,Investigation Launched
+Beef,BrandD,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Low,Investigation Launched
+Wine,BrandE,Beverages,Chalk,Chemical Analysis,Minor,Low,Investigation Launched
+Yogurt,BrandE,Dairy,Water,Spectroscopy,Minor,Low,Fine Imposed
+Cheese,BrandC,Dairy,Melamine,Spectroscopy,Moderate,Low,Fine Imposed
+Milk,BrandE,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low,Warning Issued
+Milk,BrandD,Dairy,Chalk,Sensory Evaluation,Minor,Low,Fine Imposed
+Honey,BrandB,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,Low,Warning Issued
+Butter,BrandE,Dairy,Coloring agents,Sensory Evaluation,Severe,Low,Investigation Launched
+Cheese,BrandB,Dairy,Chalk,Microbiological Analysis,Minor,Medium,Fine Imposed
+Cheese,BrandE,Dairy,Coloring agents,Spectroscopy,Moderate,Medium,Fine Imposed
+Wine,BrandD,Beverages,Coloring agents,Chemical Analysis,Severe,High,Warning Issued
+Cheese,BrandE,Dairy,Water,Chemical Analysis,Minor,High,Investigation Launched
+Butter,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,High,Warning Issued
+Juice,BrandE,Beverages,Coloring agents,Spectroscopy,Minor,High,Warning Issued
+Juice,BrandA,Beverages,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Fine Imposed
+Juice,BrandE,Beverages,Chalk,Microbiological Analysis,Severe,Medium,Product Recall
+Wine,BrandE,Beverages,Melamine,Chemical Analysis,Severe,Medium,Investigation Launched
+Butter,BrandC,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Warning Issued
+Juice,BrandC,Beverages,Chalk,Sensory Evaluation,Minor,High,Warning Issued
+Beef,BrandA,Meat,Chalk,Chemical Analysis,Severe,Low,Product Recall
+Yogurt,BrandC,Dairy,Coloring agents,Microbiological Analysis,Minor,High,Fine Imposed
+Milk,BrandE,Dairy,Melamine,Sensory Evaluation,Severe,Low,Warning Issued
+Bread,BrandE,Dairy,Coloring agents,Chemical Analysis,Severe,Low,Fine Imposed
+Bread,BrandE,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,High,Investigation Launched
+Milk,BrandA,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,High,Investigation Launched
+Juice,BrandB,Beverages,Melamine,Spectroscopy,Minor,Medium,Fine Imposed
+Yogurt,BrandB,Dairy,Chalk,Chemical Analysis,Minor,High,Investigation Launched
+Yogurt,BrandD,Dairy,Coloring agents,Chemical Analysis,Moderate,Medium,Product Recall
+Juice,BrandC,Beverages,Water,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Chicken,BrandB,Meat,Melamine,Chemical Analysis,Moderate,Low,Warning Issued
+Cheese,BrandC,Dairy,Coloring agents,Chemical Analysis,Minor,Low,Warning Issued
+Milk,BrandD,Dairy,Chalk,Sensory Evaluation,Minor,Medium,Fine Imposed
+Cheese,BrandD,Dairy,Chalk,Sensory Evaluation,Moderate,Medium,Product Recall
+Cheese,BrandD,Dairy,Water,Spectroscopy,Moderate,Low,Product Recall
+Milk,BrandB,Dairy,Artificial sweeteners,Spectroscopy,Moderate,Medium,Warning Issued
+Butter,BrandE,Dairy,Melamine,Spectroscopy,Severe,High,Investigation Launched
+Honey,BrandE,Condiments,Artificial sweeteners,Spectroscopy,Minor,High,Fine Imposed
+Yogurt,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium,Fine Imposed
+Bread,BrandA,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Warning Issued
+Yogurt,BrandD,Dairy,Water,Spectroscopy,Severe,High,Investigation Launched
+Butter,BrandD,Dairy,Water,Chemical Analysis,Severe,Medium,Warning Issued
+Butter,BrandA,Dairy,Water,Microbiological Analysis,Minor,High,Warning Issued
+Beef,BrandB,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Investigation Launched
+Juice,BrandC,Beverages,Water,Microbiological Analysis,Minor,Low,Fine Imposed
+Milk,BrandB,Dairy,Chalk,Microbiological Analysis,Severe,Low,Investigation Launched
+Beef,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Severe,High,Warning Issued
+Juice,BrandB,Beverages,Artificial sweeteners,Chemical Analysis,Severe,High,Investigation Launched
+Juice,BrandE,Beverages,Water,Spectroscopy,Severe,Low,Product Recall
+Cheese,BrandC,Dairy,Water,Sensory Evaluation,Moderate,High,Warning Issued
+Yogurt,BrandC,Dairy,Coloring agents,Spectroscopy,Moderate,High,Warning Issued
+Beef,BrandA,Meat,Melamine,Spectroscopy,Severe,High,Investigation Launched
+Juice,BrandB,Beverages,Coloring agents,Sensory Evaluation,Severe,High,Product Recall
+Chicken,BrandE,Meat,Melamine,Chemical Analysis,Severe,Low,Product Recall
+Chicken,BrandE,Meat,Water,Chemical Analysis,Moderate,Low,Fine Imposed
+Butter,BrandD,Dairy,Chalk,Spectroscopy,Moderate,Medium,Product Recall
+Bread,BrandE,Dairy,Melamine,Spectroscopy,Minor,Medium,Warning Issued
+Wine,BrandD,Beverages,Coloring agents,Spectroscopy,Moderate,Low,Warning Issued
+Butter,BrandC,Dairy,Coloring agents,Sensory Evaluation,Minor,High,Investigation Launched
+Beef,BrandA,Meat,Coloring agents,Spectroscopy,Minor,Low,Fine Imposed
+Wine,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,High,Investigation Launched
+Juice,BrandD,Beverages,Melamine,Spectroscopy,Minor,High,Fine Imposed
+Bread,BrandE,Dairy,Melamine,Sensory Evaluation,Minor,Medium,Product Recall
+Honey,BrandA,Condiments,Water,Chemical Analysis,Minor,Low,Warning Issued
+Wine,BrandA,Beverages,Water,Chemical Analysis,Minor,Medium,Fine Imposed
+Wine,BrandA,Beverages,Coloring agents,Spectroscopy,Moderate,Low,Investigation Launched
+Juice,BrandC,Beverages,Coloring agents,Sensory Evaluation,Severe,Low,Fine Imposed
+Yogurt,BrandC,Dairy,Coloring agents,Spectroscopy,Moderate,High,Fine Imposed
+Bread,BrandE,Dairy,Melamine,Spectroscopy,Minor,High,Investigation Launched
+Chicken,BrandD,Meat,Melamine,Microbiological Analysis,Moderate,High,Investigation Launched
+Milk,BrandC,Dairy,Coloring agents,Spectroscopy,Severe,Low,Fine Imposed
+Yogurt,BrandB,Dairy,Chalk,Sensory Evaluation,Minor,High,Investigation Launched
+Bread,BrandB,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium,Product Recall
+Honey,BrandC,Condiments,Melamine,Microbiological Analysis,Minor,Medium,Fine Imposed
+Wine,BrandD,Beverages,Water,Chemical Analysis,Minor,Medium,Fine Imposed
+Yogurt,BrandA,Dairy,Coloring agents,Spectroscopy,Severe,High,Investigation Launched
+Beef,BrandE,Meat,Chalk,Spectroscopy,Moderate,Low,Fine Imposed
+Wine,BrandA,Beverages,Melamine,Microbiological Analysis,Minor,Low,Warning Issued
+Bread,BrandC,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Warning Issued
+Honey,BrandB,Condiments,Artificial sweeteners,Chemical Analysis,Minor,Medium,Product Recall
+Wine,BrandC,Beverages,Coloring agents,Spectroscopy,Moderate,High,Product Recall
+Wine,BrandD,Beverages,Artificial sweeteners,Spectroscopy,Severe,Low,Product Recall
+Chicken,BrandA,Meat,Water,Sensory Evaluation,Severe,Medium,Investigation Launched
+Chicken,BrandE,Meat,Chalk,Spectroscopy,Severe,Low,Investigation Launched
+Chicken,BrandA,Meat,Chalk,Spectroscopy,Moderate,Low,Fine Imposed
+Beef,BrandE,Meat,Water,Spectroscopy,Moderate,High,Product Recall
+Juice,BrandA,Beverages,Water,Sensory Evaluation,Minor,Medium,Warning Issued
+Chicken,BrandD,Meat,Melamine,Microbiological Analysis,Minor,Low,Product Recall
+Juice,BrandA,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Fine Imposed
+Wine,BrandA,Beverages,Water,Sensory Evaluation,Minor,High,Investigation Launched
+Beef,BrandA,Meat,Water,Sensory Evaluation,Minor,Low,Product Recall
+Bread,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Low,Fine Imposed
+Juice,BrandE,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,Medium,Investigation Launched
+Yogurt,BrandB,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Warning Issued
+Yogurt,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Product Recall
+Milk,BrandD,Dairy,Chalk,Microbiological Analysis,Minor,Medium,Investigation Launched
+Butter,BrandC,Dairy,Melamine,Chemical Analysis,Moderate,Medium,Fine Imposed
+Chicken,BrandD,Meat,Melamine,Sensory Evaluation,Minor,Medium,Warning Issued
+Cheese,BrandA,Dairy,Chalk,Spectroscopy,Severe,Low,Fine Imposed
+Juice,BrandD,Beverages,Melamine,Microbiological Analysis,Moderate,High,Product Recall
+Wine,BrandB,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,High,Fine Imposed
+Juice,BrandE,Beverages,Coloring agents,Sensory Evaluation,Severe,Low,Product Recall
+Beef,BrandB,Meat,Melamine,Microbiological Analysis,Severe,Low,Product Recall
+Chicken,BrandC,Meat,Artificial sweeteners,Spectroscopy,Minor,High,Investigation Launched
+Juice,BrandE,Beverages,Melamine,Microbiological Analysis,Minor,High,Product Recall
+Cheese,BrandE,Dairy,Melamine,Chemical Analysis,Moderate,Low,Fine Imposed
+Milk,BrandA,Dairy,Chalk,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Bread,BrandC,Dairy,Water,Sensory Evaluation,Minor,Medium,Product Recall
+Milk,BrandA,Dairy,Coloring agents,Microbiological Analysis,Severe,High,Investigation Launched
+Milk,BrandA,Dairy,Melamine,Spectroscopy,Severe,Medium,Fine Imposed
+Wine,BrandC,Beverages,Water,Microbiological Analysis,Moderate,Low,Product Recall
+Wine,BrandB,Beverages,Water,Microbiological Analysis,Minor,Medium,Fine Imposed
+Yogurt,BrandB,Dairy,Melamine,Spectroscopy,Minor,High,Fine Imposed
+Beef,BrandD,Meat,Melamine,Spectroscopy,Severe,Low,Fine Imposed
+Bread,BrandC,Dairy,Melamine,Sensory Evaluation,Moderate,Medium,Fine Imposed
+Bread,BrandD,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Low,Warning Issued
+Cheese,BrandB,Dairy,Water,Microbiological Analysis,Severe,Low,Investigation Launched
+Juice,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Severe,High,Product Recall
+Milk,BrandD,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,Low,Warning Issued
+Beef,BrandA,Meat,Melamine,Microbiological Analysis,Severe,Medium,Fine Imposed
+Milk,BrandC,Dairy,Coloring agents,Microbiological Analysis,Severe,High,Product Recall
+Butter,BrandE,Dairy,Melamine,Microbiological Analysis,Minor,Low,Product Recall
+Chicken,BrandD,Meat,Water,Chemical Analysis,Minor,Low,Product Recall
+Cheese,BrandC,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Medium,Product Recall
+Beef,BrandC,Meat,Coloring agents,Sensory Evaluation,Moderate,High,Investigation Launched
+Yogurt,BrandD,Dairy,Melamine,Sensory Evaluation,Severe,Medium,Warning Issued
+Beef,BrandE,Meat,Artificial sweeteners,Chemical Analysis,Moderate,Low,Warning Issued
+Milk,BrandD,Dairy,Water,Sensory Evaluation,Moderate,Medium,Fine Imposed
+Bread,BrandB,Dairy,Melamine,Sensory Evaluation,Minor,Low,Fine Imposed
+Bread,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,High,Product Recall
+Bread,BrandB,Dairy,Water,Sensory Evaluation,Minor,Low,Fine Imposed
+Beef,BrandC,Meat,Coloring agents,Spectroscopy,Severe,Medium,Warning Issued
+Milk,BrandD,Dairy,Chalk,Spectroscopy,Moderate,Medium,Product Recall
+Honey,BrandB,Condiments,Chalk,Spectroscopy,Minor,Low,Warning Issued
+Wine,BrandA,Beverages,Artificial sweeteners,Chemical Analysis,Moderate,Medium,Warning Issued
+Yogurt,BrandC,Dairy,Chalk,Chemical Analysis,Moderate,Medium,Investigation Launched
+Wine,BrandE,Beverages,Melamine,Spectroscopy,Minor,Medium,Investigation Launched
+Chicken,BrandB,Meat,Chalk,Spectroscopy,Severe,Low,Warning Issued
+Bread,BrandC,Dairy,Melamine,Spectroscopy,Moderate,Low,Fine Imposed
+Butter,BrandC,Dairy,Melamine,Sensory Evaluation,Severe,Medium,Investigation Launched
+Wine,BrandD,Beverages,Water,Sensory Evaluation,Minor,High,Investigation Launched
+Juice,BrandD,Beverages,Melamine,Sensory Evaluation,Minor,Low,Investigation Launched
+Beef,BrandD,Meat,Water,Spectroscopy,Moderate,High,Product Recall
+Honey,BrandD,Condiments,Coloring agents,Spectroscopy,Moderate,Low,Fine Imposed
+Juice,BrandC,Beverages,Water,Spectroscopy,Severe,Low,Investigation Launched
+Milk,BrandC,Dairy,Chalk,Sensory Evaluation,Severe,Low,Warning Issued
+Wine,BrandC,Beverages,Chalk,Spectroscopy,Severe,High,Investigation Launched
+Milk,BrandB,Dairy,Water,Sensory Evaluation,Severe,Medium,Fine Imposed
+Wine,BrandA,Beverages,Melamine,Spectroscopy,Minor,High,Product Recall
+Bread,BrandA,Dairy,Water,Chemical Analysis,Moderate,Medium,Product Recall
+Yogurt,BrandD,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Wine,BrandC,Beverages,Chalk,Chemical Analysis,Severe,High,Warning Issued
+Beef,BrandE,Meat,Water,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Wine,BrandC,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,High,Investigation Launched
+Milk,BrandD,Dairy,Chalk,Microbiological Analysis,Moderate,High,Product Recall
+Honey,BrandC,Condiments,Melamine,Sensory Evaluation,Minor,Low,Fine Imposed
+Wine,BrandC,Beverages,Melamine,Sensory Evaluation,Minor,High,Product Recall
+Yogurt,BrandC,Dairy,Melamine,Microbiological Analysis,Minor,Low,Fine Imposed
+Cheese,BrandC,Dairy,Melamine,Sensory Evaluation,Moderate,High,Investigation Launched
+Yogurt,BrandA,Dairy,Coloring agents,Spectroscopy,Moderate,High,Warning Issued
+Juice,BrandD,Beverages,Coloring agents,Sensory Evaluation,Severe,Low,Product Recall
+Bread,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Fine Imposed
+Butter,BrandD,Dairy,Melamine,Chemical Analysis,Moderate,Medium,Investigation Launched
+Cheese,BrandC,Dairy,Water,Microbiological Analysis,Moderate,High,Product Recall
+Chicken,BrandE,Meat,Coloring agents,Sensory Evaluation,Severe,High,Investigation Launched
+Milk,BrandD,Dairy,Melamine,Chemical Analysis,Severe,Low,Warning Issued
+Milk,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,Low,Fine Imposed
+Butter,BrandE,Dairy,Coloring agents,Microbiological Analysis,Severe,High,Warning Issued
+Milk,BrandA,Dairy,Water,Microbiological Analysis,Severe,Medium,Fine Imposed
+Wine,BrandD,Beverages,Water,Spectroscopy,Minor,Low,Investigation Launched
+Milk,BrandA,Dairy,Melamine,Sensory Evaluation,Severe,High,Fine Imposed
+Beef,BrandB,Meat,Chalk,Sensory Evaluation,Severe,Low,Product Recall
+Bread,BrandA,Dairy,Chalk,Chemical Analysis,Severe,Medium,Product Recall
+Honey,BrandE,Condiments,Artificial sweeteners,Spectroscopy,Moderate,Medium,Fine Imposed
+Cheese,BrandD,Dairy,Melamine,Microbiological Analysis,Moderate,High,Warning Issued
+Chicken,BrandE,Meat,Melamine,Sensory Evaluation,Severe,High,Product Recall
+Beef,BrandE,Meat,Melamine,Spectroscopy,Moderate,Medium,Fine Imposed
+Milk,BrandC,Dairy,Water,Spectroscopy,Moderate,Low,Product Recall
+Bread,BrandC,Dairy,Coloring agents,Spectroscopy,Minor,High,Investigation Launched
+Honey,BrandC,Condiments,Water,Spectroscopy,Minor,Medium,Product Recall
+Bread,BrandD,Dairy,Chalk,Sensory Evaluation,Severe,Medium,Product Recall
+Beef,BrandE,Meat,Melamine,Sensory Evaluation,Minor,High,Warning Issued
+Yogurt,BrandB,Dairy,Chalk,Spectroscopy,Severe,High,Warning Issued
+Yogurt,BrandD,Dairy,Water,Chemical Analysis,Minor,Low,Product Recall
+Bread,BrandE,Dairy,Chalk,Chemical Analysis,Severe,Low,Investigation Launched
+Chicken,BrandE,Meat,Coloring agents,Sensory Evaluation,Moderate,High,Product Recall
+Yogurt,BrandB,Dairy,Melamine,Microbiological Analysis,Minor,Low,Product Recall
+Yogurt,BrandE,Dairy,Coloring agents,Spectroscopy,Minor,High,Warning Issued
+Beef,BrandE,Meat,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Product Recall
+Honey,BrandB,Condiments,Artificial sweeteners,Chemical Analysis,Severe,High,Warning Issued
+Chicken,BrandC,Meat,Artificial sweeteners,Chemical Analysis,Severe,Low,Product Recall
+Wine,BrandB,Beverages,Water,Spectroscopy,Moderate,Medium,Warning Issued
+Juice,BrandC,Beverages,Chalk,Chemical Analysis,Moderate,Medium,Fine Imposed
+Milk,BrandE,Dairy,Artificial sweeteners,Spectroscopy,Moderate,Low,Fine Imposed
+Honey,BrandA,Condiments,Melamine,Chemical Analysis,Moderate,High,Warning Issued
+Butter,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Low,Product Recall
+Cheese,BrandC,Dairy,Water,Microbiological Analysis,Minor,Low,Warning Issued
+Cheese,BrandC,Dairy,Melamine,Microbiological Analysis,Minor,Low,Product Recall
+Beef,BrandB,Meat,Chalk,Sensory Evaluation,Severe,Medium,Investigation Launched
+Honey,BrandD,Condiments,Coloring agents,Chemical Analysis,Moderate,High,Product Recall
+Cheese,BrandD,Dairy,Coloring agents,Spectroscopy,Severe,Medium,Fine Imposed
+Chicken,BrandB,Meat,Chalk,Spectroscopy,Minor,High,Investigation Launched
+Bread,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Product Recall
+Beef,BrandD,Meat,Coloring agents,Microbiological Analysis,Moderate,High,Warning Issued
+Cheese,BrandB,Dairy,Melamine,Microbiological Analysis,Severe,Medium,Warning Issued
+Bread,BrandC,Dairy,Artificial sweeteners,Spectroscopy,Severe,Medium,Fine Imposed
+Honey,BrandE,Condiments,Chalk,Spectroscopy,Moderate,Low,Investigation Launched
+Cheese,BrandE,Dairy,Coloring agents,Microbiological Analysis,Moderate,Low,Fine Imposed
+Bread,BrandE,Dairy,Coloring agents,Spectroscopy,Minor,High,Investigation Launched
+Honey,BrandD,Condiments,Melamine,Chemical Analysis,Moderate,High,Product Recall
+Wine,BrandA,Beverages,Coloring agents,Microbiological Analysis,Severe,Low,Warning Issued
+Butter,BrandC,Dairy,Chalk,Microbiological Analysis,Severe,Medium,Product Recall
+Butter,BrandB,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Product Recall
+Honey,BrandA,Condiments,Water,Microbiological Analysis,Moderate,Medium,Product Recall
+Juice,BrandE,Beverages,Melamine,Chemical Analysis,Moderate,Low,Product Recall
+Juice,BrandA,Beverages,Artificial sweeteners,Spectroscopy,Severe,High,Warning Issued
+Wine,BrandE,Beverages,Water,Microbiological Analysis,Minor,Low,Product Recall
+Wine,BrandE,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,Low,Product Recall
+Cheese,BrandC,Dairy,Coloring agents,Microbiological Analysis,Minor,Low,Warning Issued
+Beef,BrandA,Meat,Melamine,Spectroscopy,Moderate,Medium,Fine Imposed
+Bread,BrandC,Dairy,Water,Chemical Analysis,Minor,High,Fine Imposed
+Butter,BrandC,Dairy,Water,Spectroscopy,Moderate,Low,Warning Issued
+Cheese,BrandD,Dairy,Coloring agents,Spectroscopy,Minor,Low,Warning Issued
+Honey,BrandE,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,Low,Investigation Launched
+Cheese,BrandA,Dairy,Coloring agents,Chemical Analysis,Minor,High,Warning Issued
+Yogurt,BrandC,Dairy,Chalk,Chemical Analysis,Severe,Low,Fine Imposed
+Yogurt,BrandD,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Low,Investigation Launched
+Bread,BrandA,Dairy,Water,Sensory Evaluation,Moderate,Medium,Fine Imposed
+Butter,BrandC,Dairy,Melamine,Spectroscopy,Severe,High,Investigation Launched
+Bread,BrandD,Dairy,Water,Chemical Analysis,Severe,Low,Warning Issued
+Bread,BrandC,Dairy,Coloring agents,Microbiological Analysis,Severe,Medium,Warning Issued
+Milk,BrandC,Dairy,Coloring agents,Chemical Analysis,Moderate,High,Warning Issued
+Juice,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,Low,Fine Imposed
+Wine,BrandC,Beverages,Water,Sensory Evaluation,Minor,Medium,Warning Issued
+Juice,BrandB,Beverages,Chalk,Sensory Evaluation,Severe,Medium,Investigation Launched
+Chicken,BrandB,Meat,Water,Chemical Analysis,Severe,Low,Fine Imposed
+Beef,BrandC,Meat,Chalk,Sensory Evaluation,Minor,Low,Warning Issued
+Juice,BrandC,Beverages,Melamine,Spectroscopy,Severe,High,Product Recall
+Beef,BrandE,Meat,Melamine,Chemical Analysis,Severe,Medium,Investigation Launched
+Cheese,BrandB,Dairy,Coloring agents,Chemical Analysis,Severe,Low,Warning Issued
+Honey,BrandC,Condiments,Melamine,Microbiological Analysis,Moderate,Medium,Warning Issued
+Wine,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Fine Imposed
+Wine,BrandA,Beverages,Chalk,Microbiological Analysis,Severe,Medium,Product Recall
+Bread,BrandB,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low,Fine Imposed
+Wine,BrandD,Beverages,Melamine,Sensory Evaluation,Moderate,High,Investigation Launched
+Yogurt,BrandD,Dairy,Water,Microbiological Analysis,Severe,Medium,Warning Issued
+Juice,BrandD,Beverages,Artificial sweeteners,Spectroscopy,Severe,High,Investigation Launched
+Yogurt,BrandD,Dairy,Chalk,Spectroscopy,Moderate,Low,Fine Imposed
+Beef,BrandC,Meat,Water,Sensory Evaluation,Severe,Medium,Fine Imposed
+Chicken,BrandA,Meat,Coloring agents,Microbiological Analysis,Minor,Low,Fine Imposed
+Yogurt,BrandB,Dairy,Chalk,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Chicken,BrandC,Meat,Chalk,Microbiological Analysis,Minor,High,Warning Issued
+Honey,BrandA,Condiments,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Product Recall
+Beef,BrandB,Meat,Water,Sensory Evaluation,Minor,Low,Fine Imposed
+Butter,BrandA,Dairy,Water,Chemical Analysis,Minor,High,Product Recall
+Chicken,BrandE,Meat,Artificial sweeteners,Chemical Analysis,Minor,High,Product Recall
+Cheese,BrandD,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,High,Fine Imposed
+Honey,BrandD,Condiments,Chalk,Microbiological Analysis,Minor,Low,Investigation Launched
+Juice,BrandC,Beverages,Chalk,Spectroscopy,Minor,Medium,Product Recall
+Yogurt,BrandE,Dairy,Coloring agents,Microbiological Analysis,Moderate,Medium,Product Recall
+Cheese,BrandE,Dairy,Water,Chemical Analysis,Severe,High,Product Recall
+Yogurt,BrandB,Dairy,Chalk,Spectroscopy,Severe,Low,Product Recall
+Milk,BrandC,Dairy,Chalk,Spectroscopy,Minor,Low,Investigation Launched
+Milk,BrandE,Dairy,Water,Sensory Evaluation,Minor,Low,Fine Imposed
+Beef,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Severe,Medium,Fine Imposed
+Cheese,BrandB,Dairy,Coloring agents,Microbiological Analysis,Severe,Medium,Warning Issued
+Bread,BrandB,Dairy,Coloring agents,Chemical Analysis,Severe,Low,Fine Imposed
+Juice,BrandE,Beverages,Artificial sweeteners,Chemical Analysis,Moderate,High,Investigation Launched
+Bread,BrandA,Dairy,Melamine,Sensory Evaluation,Minor,Low,Product Recall
+Chicken,BrandB,Meat,Coloring agents,Microbiological Analysis,Moderate,Low,Investigation Launched
+Juice,BrandB,Beverages,Melamine,Spectroscopy,Moderate,Low,Warning Issued
+Milk,BrandE,Dairy,Water,Chemical Analysis,Severe,High,Fine Imposed
+Butter,BrandC,Dairy,Water,Spectroscopy,Moderate,High,Warning Issued
+Bread,BrandA,Dairy,Chalk,Sensory Evaluation,Severe,High,Warning Issued
+Beef,BrandB,Meat,Water,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Chicken,BrandC,Meat,Coloring agents,Spectroscopy,Moderate,Low,Investigation Launched
+Yogurt,BrandE,Dairy,Coloring agents,Sensory Evaluation,Moderate,High,Warning Issued
+Bread,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,Medium,Warning Issued
+Milk,BrandB,Dairy,Water,Spectroscopy,Severe,Low,Fine Imposed
+Chicken,BrandC,Meat,Coloring agents,Sensory Evaluation,Minor,Medium,Fine Imposed
+Beef,BrandC,Meat,Water,Sensory Evaluation,Severe,Medium,Investigation Launched
+Juice,BrandA,Beverages,Chalk,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Honey,BrandE,Condiments,Chalk,Chemical Analysis,Severe,High,Investigation Launched
+Chicken,BrandA,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Fine Imposed
+Yogurt,BrandC,Dairy,Chalk,Microbiological Analysis,Severe,Low,Investigation Launched
+Chicken,BrandA,Meat,Artificial sweeteners,Sensory Evaluation,Moderate,High,Investigation Launched
+Cheese,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,High,Investigation Launched
+Yogurt,BrandE,Dairy,Coloring agents,Chemical Analysis,Severe,Low,Fine Imposed
+Juice,BrandC,Beverages,Coloring agents,Chemical Analysis,Severe,High,Investigation Launched
+Wine,BrandE,Beverages,Water,Microbiological Analysis,Moderate,High,Product Recall
+Butter,BrandD,Dairy,Melamine,Chemical Analysis,Minor,Low,Warning Issued
+Milk,BrandA,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Low,Warning Issued
+Juice,BrandA,Beverages,Water,Chemical Analysis,Minor,Medium,Fine Imposed
+Butter,BrandA,Dairy,Artificial sweeteners,Spectroscopy,Minor,Low,Fine Imposed
+Juice,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Minor,Low,Investigation Launched
+Butter,BrandC,Dairy,Chalk,Sensory Evaluation,Moderate,Low,Product Recall
+Cheese,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Investigation Launched
+Chicken,BrandB,Meat,Coloring agents,Sensory Evaluation,Minor,Medium,Warning Issued
+Bread,BrandB,Dairy,Melamine,Sensory Evaluation,Minor,Low,Warning Issued
+Juice,BrandC,Beverages,Chalk,Microbiological Analysis,Moderate,High,Investigation Launched
+Cheese,BrandA,Dairy,Coloring agents,Chemical Analysis,Moderate,Medium,Product Recall
+Wine,BrandD,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,Low,Investigation Launched
+Honey,BrandB,Condiments,Melamine,Chemical Analysis,Moderate,Low,Fine Imposed
+Beef,BrandD,Meat,Coloring agents,Spectroscopy,Minor,Medium,Investigation Launched
+Chicken,BrandE,Meat,Water,Spectroscopy,Severe,High,Product Recall
+Wine,BrandB,Beverages,Coloring agents,Spectroscopy,Moderate,High,Fine Imposed
+Honey,BrandA,Condiments,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Product Recall
+Cheese,BrandA,Dairy,Water,Chemical Analysis,Severe,Medium,Investigation Launched
+Bread,BrandE,Dairy,Artificial sweeteners,Spectroscopy,Severe,High,Fine Imposed
+Butter,BrandC,Dairy,Water,Sensory Evaluation,Severe,Medium,Fine Imposed
+Butter,BrandC,Dairy,Water,Spectroscopy,Severe,Medium,Investigation Launched
+Beef,BrandB,Meat,Artificial sweeteners,Chemical Analysis,Moderate,Low,Fine Imposed
+Chicken,BrandA,Meat,Melamine,Sensory Evaluation,Minor,Low,Product Recall
+Bread,BrandC,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low,Fine Imposed
+Honey,BrandC,Condiments,Coloring agents,Sensory Evaluation,Minor,Medium,Product Recall
+Juice,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Minor,Medium,Product Recall
+Beef,BrandD,Meat,Coloring agents,Microbiological Analysis,Moderate,Low,Fine Imposed
+Juice,BrandE,Beverages,Chalk,Spectroscopy,Severe,High,Product Recall
+Milk,BrandC,Dairy,Water,Microbiological Analysis,Minor,Medium,Product Recall
+Yogurt,BrandE,Dairy,Coloring agents,Microbiological Analysis,Minor,Low,Fine Imposed
+Honey,BrandA,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,Low,Product Recall
+Chicken,BrandE,Meat,Water,Chemical Analysis,Moderate,High,Investigation Launched
+Wine,BrandD,Beverages,Melamine,Chemical Analysis,Moderate,High,Product Recall
+Bread,BrandD,Dairy,Melamine,Sensory Evaluation,Minor,Medium,Warning Issued
+Milk,BrandB,Dairy,Melamine,Spectroscopy,Severe,High,Warning Issued
+Wine,BrandB,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium,Warning Issued
+Cheese,BrandD,Dairy,Melamine,Spectroscopy,Severe,High,Investigation Launched
+Butter,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Minor,Low,Fine Imposed
+Butter,BrandA,Dairy,Coloring agents,Chemical Analysis,Minor,Low,Investigation Launched
+Juice,BrandC,Beverages,Melamine,Spectroscopy,Minor,High,Investigation Launched
+Cheese,BrandD,Dairy,Coloring agents,Microbiological Analysis,Minor,High,Fine Imposed
+Honey,BrandE,Condiments,Water,Sensory Evaluation,Severe,High,Fine Imposed
+Yogurt,BrandA,Dairy,Chalk,Chemical Analysis,Moderate,High,Fine Imposed
+Yogurt,BrandC,Dairy,Chalk,Spectroscopy,Severe,Low,Fine Imposed
+Chicken,BrandB,Meat,Coloring agents,Chemical Analysis,Minor,Low,Investigation Launched
+Juice,BrandD,Beverages,Chalk,Sensory Evaluation,Minor,High,Investigation Launched
+Cheese,BrandD,Dairy,Water,Sensory Evaluation,Severe,Medium,Fine Imposed
+Butter,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,Low,Investigation Launched
+Chicken,BrandE,Meat,Melamine,Microbiological Analysis,Severe,Medium,Product Recall
+Butter,BrandA,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium,Investigation Launched
+Yogurt,BrandA,Dairy,Artificial sweeteners,Spectroscopy,Moderate,Medium,Warning Issued
+Juice,BrandA,Beverages,Coloring agents,Chemical Analysis,Minor,High,Warning Issued
+Cheese,BrandA,Dairy,Water,Sensory Evaluation,Minor,High,Product Recall
+Bread,BrandA,Dairy,Melamine,Chemical Analysis,Minor,High,Investigation Launched
+Milk,BrandE,Dairy,Chalk,Chemical Analysis,Minor,High,Fine Imposed
+Milk,BrandC,Dairy,Melamine,Chemical Analysis,Moderate,Medium,Product Recall
+Bread,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Severe,High,Warning Issued
+Yogurt,BrandD,Dairy,Melamine,Chemical Analysis,Severe,Medium,Fine Imposed
+Chicken,BrandC,Meat,Artificial sweeteners,Sensory Evaluation,Moderate,Low,Investigation Launched
+Wine,BrandD,Beverages,Melamine,Spectroscopy,Severe,Medium,Investigation Launched
+Honey,BrandA,Condiments,Water,Chemical Analysis,Moderate,Medium,Product Recall
+Cheese,BrandA,Dairy,Chalk,Spectroscopy,Moderate,Medium,Product Recall
+Butter,BrandA,Dairy,Chalk,Microbiological Analysis,Moderate,High,Warning Issued
+Wine,BrandA,Beverages,Water,Microbiological Analysis,Minor,Medium,Product Recall
+Honey,BrandA,Condiments,Water,Sensory Evaluation,Moderate,Low,Warning Issued
+Milk,BrandD,Dairy,Water,Chemical Analysis,Moderate,Medium,Investigation Launched
+Chicken,BrandB,Meat,Coloring agents,Sensory Evaluation,Severe,Medium,Fine Imposed
+Chicken,BrandA,Meat,Melamine,Sensory Evaluation,Minor,Medium,Warning Issued
+Yogurt,BrandB,Dairy,Chalk,Spectroscopy,Severe,High,Investigation Launched
+Chicken,BrandB,Meat,Chalk,Microbiological Analysis,Severe,Low,Fine Imposed
+Honey,BrandE,Condiments,Melamine,Spectroscopy,Severe,High,Warning Issued
+Juice,BrandD,Beverages,Coloring agents,Sensory Evaluation,Moderate,Low,Warning Issued
+Juice,BrandE,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,Low,Warning Issued
+Milk,BrandC,Dairy,Coloring agents,Chemical Analysis,Severe,Low,Warning Issued
+Wine,BrandA,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Warning Issued
+Chicken,BrandA,Meat,Chalk,Chemical Analysis,Minor,High,Product Recall
+Bread,BrandB,Dairy,Melamine,Microbiological Analysis,Minor,Low,Warning Issued
+Chicken,BrandE,Meat,Coloring agents,Chemical Analysis,Severe,High,Investigation Launched
+Chicken,BrandD,Meat,Water,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Beef,BrandA,Meat,Artificial sweeteners,Chemical Analysis,Severe,Medium,Product Recall
+Wine,BrandD,Beverages,Coloring agents,Microbiological Analysis,Severe,Low,Product Recall
+Yogurt,BrandC,Dairy,Coloring agents,Microbiological Analysis,Minor,Medium,Product Recall
+Bread,BrandB,Dairy,Coloring agents,Sensory Evaluation,Moderate,Medium,Product Recall
+Wine,BrandC,Beverages,Coloring agents,Sensory Evaluation,Minor,High,Fine Imposed
+Honey,BrandD,Condiments,Melamine,Microbiological Analysis,Minor,Medium,Fine Imposed
+Wine,BrandE,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium,Product Recall
+Juice,BrandA,Beverages,Chalk,Chemical Analysis,Minor,High,Product Recall
+Beef,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Severe,High,Fine Imposed
+Butter,BrandA,Dairy,Coloring agents,Sensory Evaluation,Severe,High,Warning Issued
+Juice,BrandA,Beverages,Melamine,Microbiological Analysis,Minor,Medium,Product Recall
+Yogurt,BrandD,Dairy,Coloring agents,Spectroscopy,Severe,Medium,Investigation Launched
+Chicken,BrandD,Meat,Chalk,Sensory Evaluation,Minor,High,Product Recall
+Cheese,BrandD,Dairy,Chalk,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Juice,BrandC,Beverages,Melamine,Spectroscopy,Moderate,High,Fine Imposed
+Chicken,BrandB,Meat,Water,Sensory Evaluation,Severe,Low,Product Recall
+Bread,BrandC,Dairy,Chalk,Sensory Evaluation,Severe,High,Investigation Launched
+Beef,BrandE,Meat,Artificial sweeteners,Spectroscopy,Severe,High,Investigation Launched
+Yogurt,BrandC,Dairy,Artificial sweeteners,Spectroscopy,Severe,Medium,Fine Imposed
+Bread,BrandA,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,High,Product Recall
+Chicken,BrandE,Meat,Melamine,Chemical Analysis,Minor,High,Warning Issued
+Yogurt,BrandA,Dairy,Coloring agents,Chemical Analysis,Severe,High,Fine Imposed
+Bread,BrandA,Dairy,Coloring agents,Microbiological Analysis,Minor,Low,Product Recall
+Chicken,BrandA,Meat,Chalk,Spectroscopy,Severe,Medium,Fine Imposed
+Wine,BrandE,Beverages,Water,Spectroscopy,Minor,Low,Product Recall
+Milk,BrandD,Dairy,Chalk,Microbiological Analysis,Severe,High,Fine Imposed
+Yogurt,BrandD,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,High,Product Recall
+Beef,BrandA,Meat,Coloring agents,Spectroscopy,Severe,High,Fine Imposed
+Bread,BrandA,Dairy,Water,Chemical Analysis,Minor,Medium,Fine Imposed
+Beef,BrandC,Meat,Artificial sweeteners,Sensory Evaluation,Severe,High,Warning Issued
+Cheese,BrandB,Dairy,Coloring agents,Spectroscopy,Moderate,Medium,Product Recall
+Butter,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium,Fine Imposed
+Bread,BrandA,Dairy,Artificial sweeteners,Chemical Analysis,Minor,Low,Warning Issued
+Wine,BrandB,Beverages,Chalk,Sensory Evaluation,Severe,Low,Investigation Launched
+Butter,BrandD,Dairy,Chalk,Chemical Analysis,Minor,Low,Product Recall
+Juice,BrandD,Beverages,Artificial sweeteners,Spectroscopy,Moderate,High,Fine Imposed
+Beef,BrandE,Meat,Artificial sweeteners,Spectroscopy,Moderate,Low,Investigation Launched
+Wine,BrandE,Beverages,Melamine,Spectroscopy,Severe,Medium,Warning Issued
+Beef,BrandD,Meat,Melamine,Microbiological Analysis,Minor,Low,Product Recall
+Bread,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,High,Investigation Launched
+Beef,BrandD,Meat,Coloring agents,Spectroscopy,Minor,Low,Fine Imposed
+Honey,BrandA,Condiments,Chalk,Microbiological Analysis,Moderate,High,Product Recall
+Bread,BrandA,Dairy,Chalk,Microbiological Analysis,Severe,Medium,Product Recall
+Butter,BrandD,Dairy,Water,Sensory Evaluation,Minor,Low,Fine Imposed
+Wine,BrandB,Beverages,Artificial sweeteners,Spectroscopy,Minor,High,Investigation Launched
+Honey,BrandD,Condiments,Water,Chemical Analysis,Minor,Low,Fine Imposed
+Butter,BrandD,Dairy,Water,Microbiological Analysis,Moderate,Low,Product Recall
+Milk,BrandE,Dairy,Chalk,Chemical Analysis,Severe,Low,Fine Imposed
+Chicken,BrandE,Meat,Chalk,Chemical Analysis,Severe,Low,Product Recall
+Milk,BrandE,Dairy,Chalk,Spectroscopy,Moderate,Low,Investigation Launched
+Wine,BrandB,Beverages,Artificial sweeteners,Microbiological Analysis,Minor,High,Warning Issued
+Beef,BrandE,Meat,Water,Sensory Evaluation,Moderate,Low,Investigation Launched
+Chicken,BrandC,Meat,Chalk,Spectroscopy,Severe,Medium,Product Recall
+Milk,BrandC,Dairy,Water,Sensory Evaluation,Minor,High,Investigation Launched
+Chicken,BrandA,Meat,Coloring agents,Chemical Analysis,Severe,High,Investigation Launched
+Butter,BrandD,Dairy,Water,Sensory Evaluation,Severe,High,Warning Issued
+Yogurt,BrandC,Dairy,Coloring agents,Spectroscopy,Severe,Medium,Product Recall
+Wine,BrandC,Beverages,Chalk,Microbiological Analysis,Minor,Medium,Investigation Launched
+Juice,BrandC,Beverages,Chalk,Sensory Evaluation,Minor,Low,Fine Imposed
+Yogurt,BrandB,Dairy,Coloring agents,Spectroscopy,Severe,Medium,Investigation Launched
+Milk,BrandA,Dairy,Water,Chemical Analysis,Moderate,Low,Fine Imposed
+Butter,BrandA,Dairy,Water,Microbiological Analysis,Minor,High,Product Recall
+Wine,BrandC,Beverages,Melamine,Microbiological Analysis,Minor,High,Investigation Launched
+Butter,BrandA,Dairy,Chalk,Spectroscopy,Minor,Medium,Product Recall
+Milk,BrandD,Dairy,Water,Spectroscopy,Moderate,Medium,Product Recall
+Juice,BrandA,Beverages,Water,Sensory Evaluation,Minor,High,Fine Imposed
+Milk,BrandB,Dairy,Water,Chemical Analysis,Moderate,Low,Warning Issued
+Wine,BrandD,Beverages,Coloring agents,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Honey,BrandC,Condiments,Water,Sensory Evaluation,Moderate,High,Investigation Launched
+Chicken,BrandB,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Medium,Investigation Launched
+Chicken,BrandC,Meat,Coloring agents,Spectroscopy,Moderate,High,Product Recall
+Butter,BrandB,Dairy,Coloring agents,Microbiological Analysis,Moderate,Low,Product Recall
+Wine,BrandB,Beverages,Water,Sensory Evaluation,Moderate,Low,Fine Imposed
+Wine,BrandA,Beverages,Coloring agents,Chemical Analysis,Minor,Low,Warning Issued
+Milk,BrandE,Dairy,Coloring agents,Spectroscopy,Minor,Low,Investigation Launched
+Chicken,BrandD,Meat,Artificial sweeteners,Sensory Evaluation,Minor,Medium,Investigation Launched
+Bread,BrandA,Dairy,Water,Microbiological Analysis,Moderate,Low,Product Recall
+Juice,BrandE,Beverages,Melamine,Microbiological Analysis,Moderate,Low,Investigation Launched
+Wine,BrandC,Beverages,Coloring agents,Microbiological Analysis,Severe,High,Warning Issued
+Chicken,BrandB,Meat,Chalk,Sensory Evaluation,Minor,Medium,Product Recall
+Wine,BrandC,Beverages,Melamine,Spectroscopy,Moderate,High,Investigation Launched
+Bread,BrandA,Dairy,Water,Chemical Analysis,Minor,High,Product Recall
+Wine,BrandD,Beverages,Chalk,Microbiological Analysis,Moderate,Medium,Product Recall
+Juice,BrandD,Beverages,Water,Microbiological Analysis,Severe,Medium,Warning Issued
+Juice,BrandD,Beverages,Coloring agents,Spectroscopy,Moderate,Medium,Fine Imposed
+Chicken,BrandA,Meat,Melamine,Sensory Evaluation,Minor,High,Warning Issued
+Milk,BrandA,Dairy,Chalk,Microbiological Analysis,Moderate,Low,Investigation Launched
+Milk,BrandA,Dairy,Melamine,Microbiological Analysis,Severe,Medium,Fine Imposed
+Wine,BrandE,Beverages,Artificial sweeteners,Chemical Analysis,Severe,Low,Fine Imposed
+Milk,BrandA,Dairy,Water,Sensory Evaluation,Moderate,Low,Product Recall
+Beef,BrandD,Meat,Water,Microbiological Analysis,Severe,High,Product Recall
+Bread,BrandE,Dairy,Coloring agents,Spectroscopy,Moderate,Low,Investigation Launched
+Cheese,BrandC,Dairy,Melamine,Sensory Evaluation,Moderate,High,Fine Imposed
+Milk,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,Low,Investigation Launched
+Cheese,BrandD,Dairy,Melamine,Microbiological Analysis,Minor,Medium,Product Recall
+Honey,BrandD,Condiments,Artificial sweeteners,Chemical Analysis,Severe,Low,Product Recall
+Beef,BrandB,Meat,Artificial sweeteners,Microbiological Analysis,Severe,Medium,Investigation Launched
+Honey,BrandA,Condiments,Artificial sweeteners,Spectroscopy,Severe,High,Warning Issued
+Chicken,BrandE,Meat,Melamine,Spectroscopy,Minor,Medium,Warning Issued
+Yogurt,BrandB,Dairy,Water,Chemical Analysis,Minor,High,Warning Issued
+Honey,BrandA,Condiments,Melamine,Spectroscopy,Moderate,Medium,Product Recall
+Beef,BrandB,Meat,Chalk,Chemical Analysis,Moderate,Medium,Warning Issued
+Chicken,BrandB,Meat,Chalk,Chemical Analysis,Moderate,High,Product Recall
+Beef,BrandE,Meat,Chalk,Spectroscopy,Moderate,High,Investigation Launched
+Honey,BrandC,Condiments,Artificial sweeteners,Sensory Evaluation,Severe,Medium,Product Recall
+Chicken,BrandD,Meat,Water,Chemical Analysis,Minor,Low,Warning Issued
+Cheese,BrandC,Dairy,Chalk,Sensory Evaluation,Minor,High,Product Recall
+Honey,BrandE,Condiments,Chalk,Chemical Analysis,Severe,Medium,Investigation Launched
+Beef,BrandC,Meat,Water,Sensory Evaluation,Moderate,Low,Investigation Launched
+Yogurt,BrandE,Dairy,Water,Microbiological Analysis,Minor,High,Product Recall
+Yogurt,BrandC,Dairy,Water,Microbiological Analysis,Moderate,Low,Investigation Launched
+Milk,BrandE,Dairy,Coloring agents,Spectroscopy,Moderate,Medium,Warning Issued
+Chicken,BrandD,Meat,Water,Sensory Evaluation,Moderate,High,Fine Imposed
+Yogurt,BrandD,Dairy,Water,Chemical Analysis,Moderate,Low,Product Recall
+Chicken,BrandA,Meat,Coloring agents,Chemical Analysis,Moderate,Low,Product Recall
+Yogurt,BrandA,Dairy,Chalk,Chemical Analysis,Moderate,Medium,Fine Imposed
+Yogurt,BrandD,Dairy,Artificial sweeteners,Chemical Analysis,Minor,Medium,Fine Imposed
+Juice,BrandA,Beverages,Chalk,Sensory Evaluation,Minor,Low,Investigation Launched
+Wine,BrandC,Beverages,Coloring agents,Sensory Evaluation,Severe,Low,Investigation Launched
+Juice,BrandC,Beverages,Water,Microbiological Analysis,Severe,High,Product Recall
+Chicken,BrandC,Meat,Water,Microbiological Analysis,Minor,Medium,Warning Issued
+Milk,BrandD,Dairy,Coloring agents,Microbiological Analysis,Moderate,High,Investigation Launched
+Cheese,BrandB,Dairy,Melamine,Chemical Analysis,Moderate,Low,Warning Issued
+Chicken,BrandD,Meat,Coloring agents,Chemical Analysis,Moderate,Low,Product Recall
+Honey,BrandE,Condiments,Water,Microbiological Analysis,Minor,High,Product Recall
+Beef,BrandA,Meat,Melamine,Microbiological Analysis,Minor,Medium,Fine Imposed
+Bread,BrandD,Dairy,Water,Chemical Analysis,Minor,Low,Fine Imposed
+Milk,BrandB,Dairy,Chalk,Chemical Analysis,Moderate,High,Fine Imposed
+Cheese,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,High,Product Recall
+Cheese,BrandE,Dairy,Coloring agents,Spectroscopy,Minor,High,Warning Issued
+Bread,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,Low,Warning Issued
+Wine,BrandC,Beverages,Melamine,Chemical Analysis,Moderate,Medium,Warning Issued
+Honey,BrandC,Condiments,Artificial sweeteners,Spectroscopy,Minor,Medium,Investigation Launched
+Milk,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,Low,Warning Issued
+Cheese,BrandD,Dairy,Water,Sensory Evaluation,Severe,High,Product Recall
+Cheese,BrandA,Dairy,Chalk,Spectroscopy,Moderate,Medium,Product Recall
+Chicken,BrandD,Meat,Water,Sensory Evaluation,Moderate,Medium,Warning Issued
+Butter,BrandC,Dairy,Water,Spectroscopy,Moderate,High,Product Recall
+Beef,BrandE,Meat,Artificial sweeteners,Sensory Evaluation,Severe,High,Warning Issued
+Honey,BrandE,Condiments,Chalk,Chemical Analysis,Minor,Medium,Fine Imposed
+Beef,BrandB,Meat,Melamine,Spectroscopy,Severe,Low,Fine Imposed
+Juice,BrandA,Beverages,Artificial sweeteners,Chemical Analysis,Severe,Medium,Fine Imposed
+Beef,BrandA,Meat,Water,Microbiological Analysis,Moderate,High,Warning Issued
+Bread,BrandA,Dairy,Water,Spectroscopy,Minor,Medium,Product Recall
+Wine,BrandE,Beverages,Chalk,Microbiological Analysis,Severe,High,Warning Issued
+Chicken,BrandD,Meat,Chalk,Chemical Analysis,Moderate,Medium,Fine Imposed
+Yogurt,BrandB,Dairy,Chalk,Spectroscopy,Severe,Low,Product Recall
+Milk,BrandB,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,High,Warning Issued
+Chicken,BrandB,Meat,Melamine,Chemical Analysis,Minor,High,Fine Imposed
+Bread,BrandD,Dairy,Coloring agents,Microbiological Analysis,Severe,High,Fine Imposed
+Milk,BrandB,Dairy,Chalk,Chemical Analysis,Minor,High,Product Recall
+Juice,BrandA,Beverages,Coloring agents,Microbiological Analysis,Moderate,Low,Fine Imposed
+Wine,BrandC,Beverages,Artificial sweeteners,Chemical Analysis,Moderate,Medium,Investigation Launched
+Beef,BrandD,Meat,Melamine,Microbiological Analysis,Severe,Medium,Product Recall
+Chicken,BrandD,Meat,Coloring agents,Sensory Evaluation,Moderate,Medium,Investigation Launched
+Cheese,BrandE,Dairy,Chalk,Microbiological Analysis,Moderate,High,Investigation Launched
+Honey,BrandC,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,Medium,Fine Imposed
+Cheese,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Low,Warning Issued
+Butter,BrandB,Dairy,Chalk,Sensory Evaluation,Moderate,Medium,Warning Issued
+Butter,BrandE,Dairy,Water,Chemical Analysis,Moderate,Low,Product Recall
+Wine,BrandA,Beverages,Melamine,Microbiological Analysis,Moderate,Low,Investigation Launched
+Bread,BrandB,Dairy,Coloring agents,Sensory Evaluation,Minor,Low,Product Recall
+Milk,BrandA,Dairy,Chalk,Sensory Evaluation,Minor,Medium,Product Recall
+Milk,BrandB,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Low,Product Recall
+Cheese,BrandA,Dairy,Coloring agents,Microbiological Analysis,Minor,Low,Investigation Launched
+Bread,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Medium,Product Recall
+Chicken,BrandA,Meat,Melamine,Chemical Analysis,Severe,Low,Investigation Launched
+Bread,BrandE,Dairy,Coloring agents,Microbiological Analysis,Severe,High,Product Recall
+Juice,BrandC,Beverages,Coloring agents,Sensory Evaluation,Minor,Low,Product Recall
+Yogurt,BrandB,Dairy,Melamine,Chemical Analysis,Moderate,High,Warning Issued
+Juice,BrandD,Beverages,Artificial sweeteners,Spectroscopy,Moderate,High,Fine Imposed
+Yogurt,BrandB,Dairy,Water,Chemical Analysis,Minor,High,Warning Issued
+Honey,BrandE,Condiments,Coloring agents,Sensory Evaluation,Moderate,High,Product Recall
+Chicken,BrandE,Meat,Chalk,Chemical Analysis,Severe,Low,Product Recall
+Milk,BrandB,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Low,Product Recall
+Juice,BrandB,Beverages,Coloring agents,Microbiological Analysis,Severe,Medium,Warning Issued
+Butter,BrandD,Dairy,Artificial sweeteners,Chemical Analysis,Minor,Medium,Fine Imposed
+Beef,BrandD,Meat,Melamine,Microbiological Analysis,Minor,Medium,Warning Issued
+Bread,BrandD,Dairy,Chalk,Microbiological Analysis,Moderate,High,Fine Imposed
+Juice,BrandE,Beverages,Chalk,Spectroscopy,Minor,High,Product Recall
+Chicken,BrandC,Meat,Artificial sweeteners,Spectroscopy,Minor,Low,Warning Issued
